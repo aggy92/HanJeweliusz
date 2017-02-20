@@ -1,0 +1,139 @@
+﻿&na sexik chcesz iść?	#Za piwko podziękuję.
+&ile mieć lat	#Wybierz, jaką kategorią prawa jazdy jesteś zainteresowany:
+AM
+A1
+A2
+A
+B1
+&Podatek od nieruchomości	
+ #Jaki podatek od nieruchomości Cię interesuje?
+Podatek od nieruchomości osób fizycznych
+Podatek od nieruchomości osób prawnych, jednostek organizacyjnych oraz spółek niemających osobowości prawnej
+&Opłata miejscowa	#Do zapłaty opłaty miejscowej zobowiązane są osoby fizyczne przebywające na terenie Miasta Gdyni dłużej niż jedną dobę, w celach: turystycznych, wypoczynkowych lub szkoleniowych.
+Zapłaty należy dokonać u jednego z inkasentów opłaty miejscowej, którymi są wszystkie osoby kierujące hotelami, motelami, pensjonatami, domami wczasowymi, wypoczynkowymi lub wycieczkowymi, schroniskami, kempingami, polami biwakowymi albo podobnymi obiektami usługowymi.
+
+Opłatę miejscową pobiera się za każdy dzień pobytu w wysokości 2,20 zł / dzień. Jeśli chcesz wiedzieć więcej kliknij tutaj.
+Zobacz w jakich przypadkach opłaty miejscowej nie pobiera się.
+
+Dodatkowe informacje dotyczące opłaty miejscowej można uzyskać w Wydziale Dochodów Urzędu Miasta Gdyni, Referat Księgowości Podatkowej, al. Marszałka Piłsudskiego 52/54, Gdynia - pokój 26.
+Rozliczenie i wynagrodzenie za inkaso
+&Rozkład jazdy	 #Kliknij tutaj, aby zapoznać się z rozkładem jazdy wszystkich linii ZKM Gdynia.
+&Wymiana dowodu osobistego	#Wydanie nowego dowodu osobistego następuje w przypadku:
+1. upływu terminu ważności dowodu osobistego;
+2. zmiany danych zawartych w dowodzie osobistym, z wyjątkiem zmiany nazwy organu wydającego;
+3. zmiany wizerunku twarzy posiadacza dowodu osobistego w stosunku do wizerunku twarzy zamieszczonego w dowodzie osobisty w stopniu utrudniającym lub uniemożliwiającym identyfikację jego posiadacza;
+4. utraty lub uszkodzenia dowodu osobistego w stopniu utrudniającym lub uniemożliwiającym identyfikację jego posiadacza;
+5. przekazania do organu gminy lub placówki konsularnej Rzeczpospolitej Polskiej przez osobę trzecią znalezionego dowodu osobistego.
+
+Wypełniony (czytelnie, drukowanymi literami, czarnym długopisem) wniosek o wydanie dowodu osobistego należy złożyć w budynku UM przy Al. Marszałka Piłsudskiego 52/54 - Sala Obsługi Mieszkańców - stanowiska 12-18.
+Pamiętaj o pobraniu numerka z dyspensera.
+
+Wykaz potrzebnych dokumentów znajdziesz tutaj.
+
+Kliknij tutaj, aby zapoznać się ze szczegółową procedurą.
+Opłaty za wydanie/wymianę dowodu osobistego
+Zaświadczenie z akt dowodów osobistych
+&Czy należy zgłosić utratę dowodu osobistego?	#Posiadacz dowodu osobistego, którego dowód osobisty został utracony lub uszkodzony, zgłasza niezwłocznie, osobiście ten fakt organowi dowolnej gminy, a posiadacz dowodu przebywający poza terytorium Rzeczpospolitej Polskiej w dowolnej placówce konsularnej Rzeczpospolitej Polskiej. 
+
+Zgłoszenie utraty lub uszkodzenia dowodu osobistego posiadacza dowodu osobistego nieposiadającego zdolności do czynności prawnych lub posiadającego ograniczoną zdolność do czynności prawnych dokonuje rodzic, opiekun prawny lub kurator.
+
+Aby zgłosić utratę dowodu osobistego, należy wypełnić to zgłoszenie i złożyć go w Urzędzie Miasta najlepiej drogą elektroniczną.
+W tym celu zaloguj się na platformie Cyfrowego Urzędu. Instrukcję w sprawie zakładania konta na Cyfrowym Urzędzie znajdziesz tutaj.
+Pamiętaj, że jeżeli chcesz złożyć wniosek elektronicznie musisz posiadać bezpieczny podpis elektroniczny lub profil zaufany ePUAP. Informacje na temat zakładania i potwierdzania profilu zaufanego znajdziesz tutaj.
+
+Z Cyfrowego Urzędu możesz również pobrać zgłoszenie, który po wypełnieniu i podpisaniu możesz złożyć w w budynku UM przy Al. Marszałka Piłsudskiego 52/54.
+Zaświadczenie o utracie dowodu osobistego
+&Czy muszę osobiście złożyć wniosek o dowód osobisty?	#	Wniosek o wydanie dowodu osobistego składa się w organie dowolnej gminy na terytorium Rzeczypospolitej Polskiej.
+
+Wniosek składa osoba ubiegająca się o wydanie dowodu osobistego, z wyjątkiem:
+- osoby małoletniej, której do ukończenia 18 roku życia zostało więcej niż 30 dni, w imieniu której wniosek składa jeden z rodziców lub opiekun prawny;
+- osoby ubezwłasnowolnionej całkowicie pozostającej pod władzą rodzicielską, w imieniu której wniosek składa jeden z rodziców;
+- osoby ubezwłasnowolnionej całkowicie niepozostającej pod władzą rodzicielską, w imieniu której wniosek składa opiekun prawny;
+- osoby ubezwłasnowolnionej częściowo, w imieniu której wniosek składa kurator.
+
+Przy składaniu wniosku o wydanie dowodu osobistego osobom, o których mowa powyżej jest wymagana obecność osoby małoletniej jeżeli ukończyła 5 lat, osoby ubezwłasnowolnionej całkowicie oraz osoby ubezwłasnowolnionej częściowo.
+
+O niemożności złożenia wniosku spowodowanej chorobą lub niepełnosprawnością, lub inną niedającą się pokonać przeszkodą wnioskodawca powiadamia organ gminy, który zapewnia przyjęcie wniosku w miejscu pobytu tej osoby, chyba że okoliczności nie pozwalają na przyjęcie tego wniosku.
+W powyższej sytuacji gdy złożenie wniosku o wydanie dowodu osobistego okaże się nieuzasadnione, odmawia się przyjęcia wniosku w miejscu wskazanym przez wnioskodawcę oraz poucza się go o konieczności złożenia wniosku w formie pisemnej lub w formie dokumentu elektronicznego.
+&Czy można złożyć wniosek o dowód osobisty za granicą?	#Nie ma możliwości pośrednictwa konsula RP, czy pełnomocnika przy wydaniu dowodu osobistego dla obywatela polskiego przebywającego poza granicami kraju.
+
+Dowiedz się, jak złożyć wniosek w Urzędzie Miasta Gdyni.
+Wydanie dowodu osobistego po raz pierwszy
+Wydanie dowodu osobistego w razie jego utraty
+Wymiana dowodu osobistego
+&Zaświadczenie o posiadanych uprawnieniach	#Aby otrzymać zaświadczenie o posiadanych uprawnieniach, należy złożyć wniosek wraz z kompletem dokumentów w Urzędzie Miasta najlepiej drogą elektroniczną. 
+
+W tym celu zaloguj się na platformie Cyfrowego Urzędu. Instrukcję w sprawie zakładania konta na Cyfrowym Urzędzie znajdziesz tutaj.
+
+Pamiętaj, że jeżeli chcesz złożyć wniosek elektronicznie musisz posiadać bezpieczny podpis elektroniczny lub profil zaufany ePUAP. Informacje na temat zakładania i potwierdzania profilu zaufanego znajdziesz tutaj. Cyfrowy Urząd daje możliwość wniesienia opłaty elektronicznie. Opłata skarbowa wynosi 17,00zł.
+
+Z Cyfrowego Urzędu możesz również pobrać wniosek, który po wypełnieniu i podpisaniu możesz złożyć w budynku UM przy Al. Marszałka Piłsudskiego 52/54 (Sala Obsługi Mieszkańców, stanowisko nr 9, w kancelarii urzędu) lub przesłać przesyłką listową na adres urzędu - Referat Praw Jazdy i Rejestracji Pojazdów (ważny oryginał podpisu). 
+
+Kliknij tutaj, aby zapoznać się ze szczegółową procedurą.
+&Jak uzyskać decyzję o ustaleniu lokalizacji inwestycji celu publicznego	 #Wzór wniosku o wydanie decyzji o ustaleniu lokalizacji inwestycji celu publicznego znajdziesz tutaj lub w Urzędzie Miasta Gdyni przy al. Marszałka Piłsudskiego 52/54 wyłożone przed pokojem 332.
+
+Wykaz załączników do wniosku znajdziesz tutaj.
+Wniosek wraz z kompletem dokumentów należy wysłać pocztą na adres Urzędu Miasta Gdyni, Al. Marszałka Piłsudskiego 52/54, 81-382 Gdynia lub złożyć osobiście w siedzibie Urzędu w Kancelarii Ogólnej w holu głównym na parterze.
+&Kiedy dowód osobisty podlega unieważnieniu?	#Unieważnienie dowodu osobistego następuje:
+1) z dniem zgłoszenia do organu dowolnej gminy lub placówki konsularnej Rzeczpospolitej Polskiej utraty lub uszkodzenia dowodu osobistego przez jego posiadacza lub przekazania do organu dowolnej gminy lub placówki konsularnej Rzeczpospolitej Polskiej przez osobę trzecią znalezionego cudzego dowodu 
+&Czy każdy musi posiadać dowód osobisty?	#Prawo do posiadania dowodu osobistego przysługuje każdemu obywatelowi Rzeczpospolitej Polskiej.
+
+Każdy pełnoletni obywatel Rzeczpospolitej Polskiej zamieszkujący na jej terytorium jest obowiązany posiadać dowód osobisty.
+Uchylanie się od obowiązku posiadania lub wymiany dowodu osobistego podlega karze ograniczenia wolności albo karze grzywny. Ukaranie następuje w trybie przepisów określonych w kodeksie wykroczeń. 
+
+Dowód osobisty wydany osobie, która nie ukończyła 5 roku życia, jest ważny przez okres 5 lat od daty wydania dowodu osobistego.
+Dowód osobisty wydany osobie, która ukończyła 5 rok życia jest ważny 10 lat od daty jego wydania.
+&Kiedy nie zamieszcza się podpisu na dowodzie osobistym?	#W nowych dowodach osobistych nie zamieszcza się podpisu posiadacza.
+&Czy po utracie obywatelstwa polskiego trzeba zwrócić dowód osobisty?	#Osoba posiadająca dowód osobisty, która utraciła obywatelstwo polskie, jest obowiązana niezwłocznie zwrócić go do organu dowolnej gminy lub placówki konsularnej Rzeczpospolitej Polskiej.
+&Wydanie dowodu osobistego w razie jego utraty	#Utraciłeś dowód? Nie przejmuj się. Aby otrzymać dowód osobisty, należy wypełnić ten wniosek i złożyć go w Urzędzie Miasta najlepiej drogą elektroniczną.
+
+W tym celu zaloguj się na platformie Cyfrowego Urzędu. Instrukcję w sprawie zakładania konta na Cyfrowym Urzędzie znajdziesz tutaj. 
+Pamiętaj, że jeżeli chcesz złożyć wniosek elektronicznie musisz posiadać bezpieczny podpis elektroniczny lub profil zaufany ePUAP. Informacje na temat zakładania i potwierdzania profilu zaufanego znajdziesz tutaj.
+
+Z Cyfrowego Urzędu możesz również pobrać zgłoszenie, które po wypełnieniu i podpisaniu możesz złożyć w w budynku UM przy Al. Marszałka Piłsudskiego 52/54 .
+
+Wykaz potrzebnych dokumentów znajdziesz tutaj.
+
+Kliknij tutaj, aby zapoznać się ze szczegółową procedurą.
+Opłaty za wydanie/wymianę dowodu osobistego
+Zaświadczenie z akt dowodów osobistych
+&Jak długo ważny jest dowód osobisty?	#Dowody osobiste wydane przed 1 marca 2015 r. zachowują ważność do upływu terminów w nich określonych.
+
+Dowód osobisty wydany osobie, która nie ukończyła 5 roku życia, jest ważny przez okres 5 lat od daty wydania dowodu osobistego.
+Dowód osobisty wydany osobie, która ukończyła 5 rok życia jest ważny 10 lat od daty jego wydania.
+@Czy mogę już odebrać dowód osobisty?	 #Aby dowiedzieć się, czy dowód osobisty jest gotowy do odbioru, skontaktuj się z Referatem Dowodów Osobistych:
+- tel. 58-66-88-756
+- e-mail: ref.dowodow@gdynia.pl
+
+Odbioru dowodu osobistego dokonuje się w Sali Obsługi Mieszkańców, na stanowisku 19.
+Pamiętaj o pobraniu numerka z dyspensera.
+&Jak powinno wyglądać zdjęcie do dowodu osobistego?	#Fotografia powinna być kolorowa o wymiarach 35x45 mm, wykonana na jednolitym jasnym tle, mająca dobrą ostrość oraz odwzorowująca naturalny kolor skóry, obejmująca wizerunek od wierzchołka głowy do górnej części barków, tak aby twarz zajmowała 70-80 % fotografii, pokazująca wyraźne oczy, zwłaszcza źrenice, i przedstawiająca osobę w pozycji frontalnej, bez nakrycia głowy i okularów z ciemnymi szkłami, patrzącą na wprost z otwartymi oczami nieprzesłoniętymi włosami, z naturalnym wyrazem twarzy i zamkniętymi ustami.
+Wydanie dowodu osobistego po raz pierwszy	Procedura wydania pierwszego dowodu osobistego nie jest skomplikowana. Aby otrzymać dowód osobisty po raz pierwszy, należy wypełnić ten wniosek i złożyć go w Urzędzie Miasta najlepiej drogą elektroniczną.
+
+W tym celu zaloguj się na platformie Cyfrowego Urzędu. Instrukcję w sprawie zakładania konta na Cyfrowym Urzędzie znajdziesz tutaj. 
+Pamiętaj, że jeżeli chcesz złożyć wniosek elektronicznie musisz posiadać bezpieczny podpis elektroniczny lub profil zaufany ePUAP. Informacje na temat zakładania i potwierdzania profilu zaufanego znajdziesz tutaj.
+
+Z Cyfrowego Urzędu możesz również pobrać zgłoszenie, które po wypełnieniu i podpisaniu możesz złożyć w w budynku UM przy Al. Marszałka Piłsudskiego 52/54 .
+
+Wykaz potrzebnych dokumentów znajdziesz tutaj.
+UWAGA: przy składaniu wniosku jest wymagana obecność dziecka, jeśli ukończylo 5 lat. 
+Kliknij tutaj, aby zapoznać się ze szczegółową procedurą.
+Opłaty za wydanie/wymianę dowodu osobistego
+Zaświadczenie z akt dowodów osobistych
+&Zaświadczenie o utracie dowodu osobistego	#Posiadaczowi dowodu osobistego, który dokonał osobistego zgłoszenia w organie gminy lub placówce konsularnej Rzeczpospolitej Polskiej utraty lub uszkodzenia dowodu osobistego, wydaje się nieodpłatnie zaświadczenie, które jest ważne do czasu wydania nowego dowodu osobistego, nie dłużej jednak niż przez 2 miesiące.
+&Opłaty za wydanie dowodu osobistego	#Wydanie dowodu osobistego jest bezpłatne.
+&Adres zameldowania w dowodzie osobistym	#W nowym dowodzie osobistym nie zamieszcza się adresu zameldowania. 
+Adres miejsca zameldowania zamieszczony w dowodzie osobistym wydanym na podstawie przepisów ustawy z dnia 10 kwietnia 1974r. o ewidencji ludności i dowodach osobistych od dnia wejścia w życie nowej ustawy o dowodach osobistych tj. od 01 marca 2015r. nie potwierdza adresu zameldowania i jego zmiana nie stanowi podstawy do wymiany dowodu osobistego.
+&Czy można złożyć wniosek o dowód osobisty w innej gminie?	#Wniosek o wydanie dowodu osobistego składa się w organie dowolnej gminy na terytorium Rzeczypospolitej Polskiej.
+ @Zaświadczenie z akt dowodów osobistych	#O zaświadczenie może wystąpić tylko osoba chcąca potwierdzenia swoich danych zawartych w aktach dowodów osobistych.
+Aby uzyskać takie zaświadczenie należy złożyć wniosek wraz z kompletem dokumentów w Urzędzie Miasta najlepiej drogą elektroniczną.
+&Wydanie zaświadczenia o posiadanym numerze PESEL	 #Aby otrzymać zaświadczenie o numerze PESEL, należy wypełnić ten wniosek i złożyć go w Urzędzie Miasta najlepiej drogą elektroniczną.
+
+W tym celu zaloguj się na platformie Cyfrowego Urzędu. Instrukcję w sprawie zakładania konta na Cyfrowym Urzędzie znajdziesz tutaj. Pamiętaj, że jeżeli chcesz złożyć wniosek elektronicznie musisz posiadać bezpieczny podpis elektroniczny lub profil zaufany ePUAP. Informacje na temat zakładania i potwierdzania profilu zaufanego znajdziesz tutaj.
+Cyfrowy Urząd daje możliwość wniesienia opłaty elektronicznie.
+
+Z Cyfrowego Urzędu możesz również pobrać wniosek, który po wypełnieniu i podpisaniu możesz złożyć w budynku UM przy Al. Marszałka Piłsudskiego 52/54, półpiętro, pokój 60. 
+
+Wykaz potrzebnych dokumentów znajdziesz tutaj. Termin odpowiedzi w przypadku udostępnienia danych wynosi 7 dni od daty złożenia wniosku.
+
+Kliknij tutaj, aby zapoznać się ze szczegółową procedurą.
