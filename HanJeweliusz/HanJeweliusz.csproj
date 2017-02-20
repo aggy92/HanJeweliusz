@@ -118,8 +118,11 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AnswerFinder.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\MessagesController.cs" />
+    <Compile Include="DataLoader.cs" />
+    <Compile Include="FileReader.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>

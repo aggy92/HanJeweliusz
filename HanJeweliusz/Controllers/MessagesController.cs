@@ -7,6 +7,7 @@ using System.Web.Http;
 using System.Web.Http.Description;
 using Microsoft.Bot.Connector;
 using Newtonsoft.Json;
+using System.Collections;
 
 namespace HanJeweliusz
 {
@@ -17,6 +18,9 @@ namespace HanJeweliusz
         /// POST: api/Messages
         /// Receive a message from a user and reply to it
         /// </summary>
+        /// 
+
+     
         public async Task<HttpResponseMessage> Post([FromBody]Activity activity)
         {
             if (activity.Type == ActivityTypes.Message)
@@ -26,7 +30,7 @@ namespace HanJeweliusz
                 int length = (activity.Text ?? string.Empty).Length;
 
                 // return our reply to the user
-                Activity reply = activity.CreateReply($"You sent {activity.Text} which was {length} characters");
+                Activity reply = activity.CreateReply(AnswerFinder.FindAnswer(activity.Text));
                 await connector.Conversations.ReplyToActivityAsync(reply);
             }
             else

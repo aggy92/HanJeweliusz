@@ -9,6 +9,7 @@ namespace HanJeweliusz
 {
     public static class WebApiConfig
     {
+        private static String DATA_PATH = @"C:\Users\kamil.augustyn\Desktop\dane.txt";
         public static void Register(HttpConfiguration config)
         {
             // Json settings
@@ -32,6 +33,8 @@ namespace HanJeweliusz
                 routeTemplate: "api/{controller}/{id}",
                 defaults: new { id = RouteParameter.Optional }
             );
+
+            DataLoader.ParseTextAndInsertToMap(FileReader.ReadFile(DATA_PATH));
         }
     }
 }
